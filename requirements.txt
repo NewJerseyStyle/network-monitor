@@ -1,0 +1,3 @@
+psutil
+python_http_client
+sendgrid
